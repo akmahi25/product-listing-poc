@@ -1,0 +1,22 @@
+.edit-card {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  mat-card-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  mat-card-title {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
